@@ -714,7 +714,7 @@ a {
   width: 1170px;
   height: 494px;
   display: inline-block;
-  margin-left: 553px;
+  /* margin-left: 553px; */
   background: #7deced;
   align-items: center;
   /*justify-content: center; */
